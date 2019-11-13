@@ -1,5 +1,7 @@
 # project_shop
-This is a shopping cart in PHP
+This is a shopping cart in PHP.
+<br>
+<br>
 Upload Products from admin panel with images so as to view them in the client side.
 
 ##Screenshots
