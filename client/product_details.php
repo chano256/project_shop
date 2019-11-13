@@ -86,7 +86,7 @@ if (isset($_POST["submit1"])) {
         if ($tb_qty < $qty) {
             ?>
 <script type="text/javascript">
-                alert("this much quantity not available");
+                alert("this much quantity not avail");
             </script>
 <?php
         } else {

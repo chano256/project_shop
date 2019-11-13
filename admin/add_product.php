@@ -43,9 +43,9 @@
                 				<td>Product category</td>
                 				<td>
                 					<select name="pcategory">
-                						<option value="Gents clothes">Gents clothes</option>
-                						<option value="Ladies clothes">Ladies clothes</option>
-                						<option value="Gents shoes">Gents shoes</option>
+                						<option value="Gent clothes">Gent clothes</option>
+                						<option value="Ladie clothes">Ladies clothes</option>
+                						<option value="Gent shoes">Gent shoes</option>
                 						<option value="Ladies Shoes">Ladies Shoes</option>
                 					</select>
                 				</td>
