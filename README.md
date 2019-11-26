@@ -1,5 +1,5 @@
 # project_shop
-This is a shopping cart in PHP.
+This is a shopping cart in PHP and MySQL database.
 <br>
 It has both an admin and client side.
 <br>
